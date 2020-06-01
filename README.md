@@ -14,23 +14,23 @@
 # Download
 You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/master/README.md#logutils-more-guide) page.
 
-# Usage
+# LogUtils
 ## Logging with Default Tag
 ``` Kotlin
-w(any: Any?)
-v(any: Any?)
-d(any: Any?)
-e(any: Any?)
-i(any: Any?)
+- w(any: Any?)
+- v(any: Any?)
+- d(any: Any?)
+- e(any: Any?)
+- i(any: Any?)
 ```
 
 ## Logging with Custom Tag
 ``` Kotlin
-w(tag: String, any: Any?)
-v(tag: String, any: Any?)
-d(tag: String, any: Any?)
-e(tag: String, any: Any?)
-i(tag: String, any: Any?)
+- w(tag: String, any: Any?)
+- v(tag: String, any: Any?)
+- d(tag: String, any: Any?)
+- e(tag: String, any: Any?)
+- i(tag: String, any: Any?)
 ```
 
 # Option
