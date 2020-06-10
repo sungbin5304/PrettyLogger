@@ -42,7 +42,7 @@ You can set your Tag with `setTag(tag: String)` method.
 You can control show log with `showLog(showLog: Boolean)` method.
 
 # Tip
-## 1. PrettyLogger is supported `Iterable` and `Map` logging.
+## 1. PrettyLogger is supported `Iterable`, `Array` and `Map` logging.
 ``` Kotlin
 val map = HashMap<String, String>()
 map["A"] = "BCD"
