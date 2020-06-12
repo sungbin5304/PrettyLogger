@@ -12,7 +12,8 @@
 -----
 
 # Download
-You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/master/README.md#logutils-more-guide) page.
+You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/master/README.md#logutils-more-guide) page. (This is always the latest version)<br>
+Or...you can just copy & paste [this](https://github.com/sungbin5304/PrettyLogger/blob/master/LogUtils.kt) code. (This may be a low version)
 
 # LogUtils
 ## Logging with Default Tag
